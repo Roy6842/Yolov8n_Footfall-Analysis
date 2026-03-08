@@ -18,8 +18,7 @@ Pressing `q` will stop the program. If `SAVE_VIDEO=True` is enabled, the system 
 
 ## Final Result
 
-
-
+![image](https://github.com/Roy6842/Yolov8n_Footfall-Analysis/blob/main/images/img_001.png)
 
 ## Reference
 
